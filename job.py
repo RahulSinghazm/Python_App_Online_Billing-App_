@@ -1,7 +1,7 @@
 def monthlyexp(m):
     r=m
 m=int(input("Hostel Rent"))
-m1=int(input(""))
+m1=int(input("Bus_Ticket"))
 m2=int(input("Food"))
 m3=int(input("Coffee"))
 m4=int(input("Fish_Fry"))
