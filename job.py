@@ -7,7 +7,7 @@ m3=int(input("Coffee"))
 m4=int(input("Fish_Fry"))
 m5=int(input("Chapati"))
 m6=int(input("Fruits_Juice"))
-#print("One Day Expenses Money Total:",m+m1+m2+m3+m4+m5)
+#print("One Day Expenses Money Total:",m+m1+m2+m3+m4+m5+m6)
 a=(m*30+m1*30+m2*30+m3*30+m4*30+m5*30+m6*30)
 print("One Month Expenses Money Total",a)
 def food(f):
