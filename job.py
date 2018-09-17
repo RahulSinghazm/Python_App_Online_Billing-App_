@@ -13,7 +13,7 @@ print("One Month Expenses Money Total",a)
 def food(f):
     tripperson=f/num
     return tripperson
-num=int(input("No. of frnds:"))
+num=int(input("No. of friends:"))
 ftotal=int(input("Spent on some Food:"))
 x=food(ftotal)
 print("The Per frnds total is:",x)
